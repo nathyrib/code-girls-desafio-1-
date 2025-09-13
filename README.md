@@ -2,28 +2,29 @@ Desafio 1 - Gerenciando Instâncias EC2 na AWS
 
 Aprendizados do curso
 
-Amazon EC2
+AMAZON EC2
 
 • EC2 (Elastic Computing Cloud) é um serviço de máquinas virtuais dentro da AWS;
-
-• Possibilita que qualquer aplicação rode na nuvem de forma simples e elástica;
+•Possibilita que qualquer aplicação rode na nuvem de forma simples e elástica;
 
 • Ele é distribuído nas máquinas virtuais em vários datacenters em todo mundo, o que permite que mesmo se houver algum problema em alguma das máquinas o serviço continue funcionando;
 
 • O usuário paga apenas pelo uso.
 
-Amazon RDS
+AMAZON RDS
 
 •RDS (Relational Database Service) permite a criação e a utilização de bancos de dados na nuvem.
 
 Amazon EBS
 
 • EBS (Elastic Block Store) oferece              armazenamento para instâncias EC2;
+
 • Permite backups automáticos chamados snapshots.
 
-Amazon S3
+AMAZON S3
 
 • S3(Simple Storage Service) é um serviço de armazenamento em nuvem que permite guardar arquivos de forma segura e escalável;
+
 • Os arquivos são armazenados em buckets. Cada bucket pode conter milhares de arquivos, e o usuário pode acessar esses dados pela internet, de qualquer lugar do mundo. 
 
 
