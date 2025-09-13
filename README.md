@@ -8,13 +8,13 @@ AMAZON EC2
 
 • Possibilita que qualquer aplicação rode na nuvem de forma simples e elástica;
 
-• Ele é distribuído nas máquinas virtuais em vários datacenters em todo mundo, o que permite que mesmo se houver algum problema em alguma das máquinas o serviço continue funcionando;
+• Ele é distribuído nas máquinas virtuais em vários datacenters em todo mundo, o que permite que mesmo se houver algum problema em alguma das máquinas, o serviço continue funcionando;
 
 • O usuário paga apenas pelo uso.
 
 AMAZON RDS
 
-•RDS (Relational Database Service) permite a criação e a utilização de bancos de dados na nuvem.
+• RDS (Relational Database Service) permite a criação e a utilização de bancos de dados na nuvem.
 
 AMAZON EBS
 
@@ -24,14 +24,14 @@ AMAZON EBS
 
 AMAZON S3
 
-• S3(Simple Storage Service) é um serviço de armazenamento em nuvem que permite guardar arquivos de forma segura e escalável;
+• S3 (Simple Storage Service) é um serviço de armazenamento em nuvem que permite guardar arquivos de forma segura e escalável;
 
 • Os arquivos são armazenados em buckets. Cada bucket pode conter milhares de arquivos, e o usuário pode acessar esses dados pela internet de qualquer lugar do mundo. 
 
 -Diferença entre EC2 e S3
 
-O EC2 é utilizado para criar servidores virtuais na nuvem. Ele pode rodar sites, sistemas, aplicativos ou qualquer coisa que precise de processamento.
-Já o S3 é usado para guardar arquivos na nuvem. Ele pode armazenar fotos, vídeos, documentos e etc.
+O EC2 é utilizado para criar servidores virtuais na nuvem, ele pode rodar sites, sistemas, aplicativos ou qualquer coisa que precise de processamento.
+Já o S3 é usado para guardar arquivos na nuvem, ele pode armazenar fotos, vídeos, documentos e etc.
 
 
 📍Explicação do diagrama
