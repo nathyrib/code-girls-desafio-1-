@@ -15,7 +15,7 @@ Amazon RDS
 
 Amazon EBS
 
-• EBS (Elastic Block Store) oferece armazenamento para instâncias EC2;
+• EBS (Elastic Block Store) oferece              armazenamento para instâncias EC2;
 • Permite backups automáticos chamados snapshots.
 
 Amazon S3
