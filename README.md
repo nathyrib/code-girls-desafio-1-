@@ -6,7 +6,8 @@ Amazon EC2
 
     • EC2 (Elastic Computing Cloud) é um serviço de máquinas virtuais dentro da AWS;
     • Possibilita que qualquer aplicação rode na nuvem de forma simples e elástica;
-    • Ele é distribuído nas máquinas virtuais em vários datacenters em todo mundo, o que permite que mesmo se houver algum problema em alguma das máquinas o serviço continue funcionando;
+    • Ele é distribuído nas máquinas virtuais em vários datacenters em todo mundo,
+ o que permite que mesmo se houver algum problema em alguma das máquinas o serviço continue funcionando;
     • O usuário paga apenas pelo uso.
 
 Amazon RDS
