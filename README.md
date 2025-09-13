@@ -28,11 +28,10 @@ AMAZON S3
 
 • Os arquivos são armazenados em buckets. Cada bucket pode conter milhares de arquivos, e o usuário pode acessar esses dados pela internet de qualquer lugar do mundo. 
 
-
-- Diferença entre EC2 e S3
+-Diferença entre EC2 e S3
 
 O EC2 é utilizado para criar servidores virtuais na nuvem. Ele pode rodar sites, sistemas, aplicativos ou qualquer coisa que precise de processamento.
-Já o S3 é usado para guardar arquivos  é um serviço de armazenamento em nuvem que permite guardar arquivos de forma segura, acessível e escalável. os na nuvem. Ele pode armazenar fotos, vídeos, documentos e etc.
+Já o S3 é usado para guardar arquivos na nuvem. Ele pode armazenar fotos, vídeos, documentos e etc.
 
 
 📍Explicação do diagrama
