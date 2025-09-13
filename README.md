@@ -23,6 +23,7 @@ Amazon S3
 • S3(Simple Storage Service) é um serviço de armazenamento em nuvem que permite guardar arquivos de forma segura e escalável;
 • Os arquivos são armazenados em buckets. Cada bucket pode conter milhares de arquivos, e o usuário pode acessar esses dados pela internet, de qualquer lugar do mundo. 
 
+
 Diferença entre EC2 e S3
 
 O EC2 é utilizado para criar servidores virtuais na nuvem. Ele pode rodar sites, sistemas, aplicativos ou qualquer coisa que precise de processamento.
