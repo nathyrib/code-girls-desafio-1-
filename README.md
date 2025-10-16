@@ -1,6 +1,6 @@
-Desafio 1 - Gerenciando Instâncias EC2 na AWS 
+# Desafio 1 - Gerenciando Instâncias EC2 na AWS 
 
-✨️ Aprendizados do curso
+## ✨️ Aprendizados do curso
 
 AMAZON EC2
 
@@ -34,7 +34,7 @@ O EC2 é utilizado para criar servidores virtuais na nuvem, ele pode rodar sites
 Já o S3 é usado para guardar arquivos na nuvem, ele pode armazenar fotos, vídeos, documentos e etc.
 
 
-📍 Explicação do diagrama
+## 📍 Explicação do diagrama
 
 Nesse desafio foi pedido uma arquitetura com EC2 |EBS |S3 |Lambda Function. Decidi por usar um cenário para exemplificar essa arquitetura. O cenário  escolhido foi um sistema escolar, 
 onde um professor pode entrar para ter acesso aos dados da escola e lançar as notas dos alunos. Com isso, temos as seguintes relações:
